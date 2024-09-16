@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.item-image {
+  max-width: 150px;
+  max-height: 150px;
+}
+.avatar {
+  max-width: 100px;
+  max-height: 100px;
+}
